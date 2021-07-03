@@ -1,1 +1,2 @@
 # MehmetAkifMutluu
+Float=Ondalıklı Sayı
